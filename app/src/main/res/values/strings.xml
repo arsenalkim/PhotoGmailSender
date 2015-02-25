@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoGmailSender</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="capture">사진 찍기</string>
+    <string name="send">보내기</string>
+
+</resources>
